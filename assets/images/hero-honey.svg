@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 720" width="640" height="720" role="img" aria-label="Heaven Naturals placeholder">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF7F0"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="720" fill="url(#g)"/>
+  <rect x="1" y="1" width="638" height="718" fill="none" stroke="#E8E8E8" stroke-width="2"/>
+  <g opacity="0.9">
+    <circle cx="320.0" cy="330.0" r="34" fill="none" stroke="#C9A227" stroke-width="2"/>
+    <path d="M 306.0 330.0 l 14 -16 l 14 16 z" fill="none" stroke="#C9A227" stroke-width="2"/>
+    <line x1="280.0" y1="384.0" x2="360.0" y2="384.0" stroke="#C9A227" stroke-width="2"/>
+  </g>
+  <text x="50%" y="422.0" font-family="Georgia, serif" font-size="22" fill="#111111" text-anchor="middle" font-style="italic">Heaven Naturals</text>
+  <text x="50%" y="446.0" font-family="Arial, sans-serif" font-size="12" letter-spacing="2" fill="#666666" text-anchor="middle">HERO IMAGE PLACEHOLDER · REPLACE</text>
+</svg>

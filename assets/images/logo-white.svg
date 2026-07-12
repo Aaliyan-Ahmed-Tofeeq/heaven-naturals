@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 52" width="220" height="52" role="img" aria-label="Heaven Naturals logo">
+  <circle cx="16" cy="26" r="10" fill="none" stroke="#C9A227" stroke-width="1.6"/>
+  <path d="M16 18 C 20 22, 20 30, 16 34 C 12 30, 12 22, 16 18 Z" fill="#C9A227"/>
+  <text x="34" y="33" font-family="Georgia, 'Cormorant Garamond', serif" font-size="24" font-style="italic" font-weight="600" fill="#FFFFFF">Heaven <tspan fill="#C9A227">Naturals</tspan></text>
+</svg>
