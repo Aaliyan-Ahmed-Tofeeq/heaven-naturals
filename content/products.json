@@ -13,6 +13,18 @@
       "benefits": [],
       "description": "CID wale...",
       "category": "ghee"
+    },
+    {
+      "oldPrice": 8000,
+      "price": 5000,
+      "name": "Jethalal",
+      "featured": true,
+      "stock": 10,
+      "weight": "400kg",
+      "id": "1123",
+      "image": "/assets/images/uploads/file_00000000f02471fabd4f1c9a9b5166b1_20260712184237.png",
+      "benefits": [],
+      "category": "dates"
     }
   ]
 }
