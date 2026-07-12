@@ -6,6 +6,9 @@
       "price": 9999,
       "name": "ACP",
       "featured": true,
+      "gallery": [
+        "/assets/images/uploads/file_00000000ae2c72079da96c2683177887_20260711195627.png"
+      ],
       "stock": 1,
       "weight": "200kg",
       "id": "1122",
