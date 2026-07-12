@@ -1,0 +1,76 @@
+/* ==========================================================================
+   HEAVEN NATURALS — ANIMATIONS
+   Scroll reveal, keyframes, micro-interactions. 200–400ms, ease-out.
+   ========================================================================== */
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes popIn {
+  0% { transform: scale(0.9); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* Scroll reveal (Intersection Observer toggles .is-visible) */
+.reveal-up {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 600ms var(--ease-out), transform 600ms var(--ease-out);
+}
+.reveal-up.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.reveal-delay-1.is-visible { transition-delay: 80ms; }
+.reveal-delay-2.is-visible { transition-delay: 160ms; }
+.reveal-delay-3.is-visible { transition-delay: 240ms; }
+
+/* Hero load-in sequence (runs once on page load, no JS needed) */
+.hero__content { animation: fadeInUp 700ms var(--ease-out) both; }
+.hero__media { animation: fadeInUp 800ms var(--ease-out) 120ms both; }
+
+/* Product card entrance when injected */
+.product-card, .category-card, .testimonial-card {
+  animation: popIn 400ms var(--ease-out) both;
+}
+
+/* Cart item add/remove feedback */
+.cart-item {
+  animation: fadeInUp 300ms var(--ease-out) both;
+}
+.cart-item.is-removing {
+  animation: fadeOut 250ms var(--ease-out) forwards;
+}
+@keyframes fadeOut {
+  to { opacity: 0; transform: translateX(20px); height: 0; margin: 0; padding: 0; border: 0; }
+}
+
+/* Cart badge pulse on update */
+@keyframes badgePulse {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.35); }
+  100% { transform: scale(1); }
+}
+.cart-badge.is-pulsing { animation: badgePulse 350ms var(--ease-out); }
+
+/* Add-to-cart button click feedback */
+@keyframes addPulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.85); }
+  100% { transform: scale(1); }
+}
+.product-card__add.is-clicked,
+.qty-selector button.is-clicked { animation: addPulse 300ms var(--ease-out); }
+
+/* Filter chip transition helper for grid re-render */
+.product-grid.is-filtering .product-card {
+  animation: fadeInUp 350ms var(--ease-out) both;
+}
+
+/* Smooth transitions already applied inline in style.css for hover/drawer states */
