@@ -1,20 +1,18 @@
 {
   "products": [
     {
-      "shortDescription": "Hello",
-      "oldPrice": 50,
-      "price": 9999,
+      "shortDescription": "ACP pradhuman",
+      "oldPrice": 15000,
+      "price": 10000,
       "name": "ACP",
       "featured": true,
-      "gallery": [
-        "/assets/images/uploads/file_00000000ae2c72079da96c2683177887_20260711195627.png"
-      ],
-      "stock": 1,
+      "stock": 10,
       "weight": "200kg",
       "id": "1122",
-      "image": "assets/images/product-placeholder.svg",
-      "description": "Hello ACP",
-      "category": "islamic"
+      "image": "/assets/images/uploads/file_00000000ae2c72079da96c2683177887_20260711195627.png",
+      "benefits": [],
+      "description": "CID wale...",
+      "category": "ghee"
     }
   ]
 }
