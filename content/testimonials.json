@@ -1,0 +1,22 @@
+{
+  "testimonials": [
+    {
+      "name": "Ayesha R.",
+      "location": "Lahore",
+      "rating": 5,
+      "quote": "The honey tastes like it did at my grandmother's house. You can tell it's completely raw — nothing else compares."
+    },
+    {
+      "name": "Bilal K.",
+      "location": "Karachi",
+      "rating": 5,
+      "quote": "Ordered the gift box for Eid and everyone asked where it was from. Beautiful packaging, even better quality."
+    },
+    {
+      "name": "Sana M.",
+      "location": "Islamabad",
+      "rating": 5,
+      "quote": "The desi ghee smells and tastes exactly like the ghee my mother used to make at home. Ordering again, easily."
+    }
+  ]
+}

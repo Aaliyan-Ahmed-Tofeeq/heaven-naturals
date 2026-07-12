@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "id": "honey", "name": "Honey", "tagline": "Raw & unfiltered", "image": "assets/images/category-honey.svg" },
+    { "id": "ghee", "name": "Desi Ghee", "tagline": "Traditionally churned", "image": "assets/images/category-ghee.svg" },
+    { "id": "dates", "name": "Dates", "tagline": "Premium selection", "image": "assets/images/category-dates.svg" },
+    { "id": "islamic", "name": "Islamic Decor", "tagline": "Elegant for the home", "image": "assets/images/category-islamic.svg" }
+  ]
+}

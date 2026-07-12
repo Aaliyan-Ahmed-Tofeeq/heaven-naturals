@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": "raw-honey-500g",
+      "name": "Raw Sidr Honey",
+      "category": "honey",
+      "price": 2499,
+      "oldPrice": 2899,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Raw, unfiltered honey harvested from Sidr blossoms.",
+      "description": "Our Raw Sidr Honey is harvested from remote Sidr groves and left completely unfiltered to preserve its natural enzymes, pollen and rich amber colour. A spoonful a day is a tradition passed through generations.",
+      "benefits": [
+        "100% raw and unfiltered",
+        "No added sugar or syrup",
+        "Rich in natural antioxidants",
+        "Halal certified sourcing"
+      ],
+      "weight": "500g",
+      "featured": true,
+      "stock": 24
+    },
+    {
+      "id": "acacia-honey-350g",
+      "name": "Acacia Blossom Honey",
+      "category": "honey",
+      "price": 1899,
+      "oldPrice": null,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Light, delicate honey from spring acacia blooms.",
+      "description": "A lighter, milder honey pressed from spring acacia blossoms. Its delicate floral notes make it perfect for tea, breakfast tables and gifting.",
+      "benefits": [
+        "Mild floral flavour",
+        "Slow to crystallise",
+        "Cold-extracted for purity",
+        "Halal certified sourcing"
+      ],
+      "weight": "350g",
+      "featured": true,
+      "stock": 18
+    },
+    {
+      "id": "desi-ghee-1kg",
+      "name": "Traditional Desi Ghee",
+      "category": "ghee",
+      "price": 3299,
+      "oldPrice": 3699,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Slow-churned desi ghee made the traditional way.",
+      "description": "Made using the traditional bilona method, our desi ghee is slow-churned from cultured cream for a rich aroma and deep, golden colour. Free from preservatives and additives.",
+      "benefits": [
+        "Traditionally bilona-churned",
+        "No preservatives added",
+        "Rich, authentic aroma",
+        "Great for cooking & Sunnah use"
+      ],
+      "weight": "1kg",
+      "featured": true,
+      "stock": 15
+    },
+    {
+      "id": "desi-ghee-500g",
+      "name": "Desi Ghee — Family Jar",
+      "category": "ghee",
+      "price": 1799,
+      "oldPrice": null,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Everyday desi ghee jar for the family kitchen.",
+      "description": "A convenient family-size jar of our traditionally churned desi ghee — the same purity, in a size made for everyday cooking.",
+      "benefits": [
+        "Everyday family size",
+        "Traditionally churned",
+        "Rich source of natural fats",
+        "Halal certified"
+      ],
+      "weight": "500g",
+      "featured": false,
+      "stock": 30
+    },
+    {
+      "id": "ajwa-dates-500g",
+      "name": "Premium Ajwa Dates",
+      "category": "dates",
+      "price": 3999,
+      "oldPrice": 4499,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Soft, dark Ajwa dates from Madinah.",
+      "description": "Sourced directly from the orchards of Madinah, our Ajwa dates are soft, dark and deeply flavoured — cherished in Islamic tradition and prized for their quality.",
+      "benefits": [
+        "Sourced from Madinah orchards",
+        "Soft texture, rich flavour",
+        "A blessed Sunnah food",
+        "Carefully hand-selected"
+      ],
+      "weight": "500g",
+      "featured": true,
+      "stock": 20
+    },
+    {
+      "id": "mabroom-dates-500g",
+      "name": "Mabroom Dates",
+      "category": "dates",
+      "price": 2799,
+      "oldPrice": null,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Long, chewy Mabroom dates with caramel notes.",
+      "description": "Mabroom dates are known for their long shape, chewy texture and deep caramel sweetness — a favourite for daily enjoyment and gifting alike.",
+      "benefits": [
+        "Naturally sweet, chewy texture",
+        "Hand-picked quality",
+        "No added sugar",
+        "Perfect for gifting"
+      ],
+      "weight": "500g",
+      "featured": false,
+      "stock": 22
+    },
+    {
+      "id": "islamic-wall-art-1",
+      "name": "Ayat-ul-Kursi Wall Art",
+      "category": "islamic",
+      "price": 4599,
+      "oldPrice": null,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Elegant minimal calligraphy wall art in gold frame.",
+      "description": "A minimal, modern take on Islamic wall art — Ayat-ul-Kursi rendered in elegant calligraphy with a fine gold frame, designed to bring quiet beauty to any room.",
+      "benefits": [
+        "Fine gold-toned frame",
+        "Modern minimal design",
+        "Ready to hang",
+        "Makes a meaningful gift"
+      ],
+      "weight": "1.2kg",
+      "featured": true,
+      "stock": 10
+    },
+    {
+      "id": "prayer-mat-premium",
+      "name": "Premium Velvet Prayer Mat",
+      "category": "islamic",
+      "price": 3499,
+      "oldPrice": 3999,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Soft, cushioned velvet prayer mat in neutral tones.",
+      "description": "Crafted from soft, cushioned velvet with a non-slip base, this prayer mat brings comfort and quiet elegance to daily prayer — in neutral, timeless tones.",
+      "benefits": [
+        "Soft cushioned comfort",
+        "Non-slip backing",
+        "Elegant neutral design",
+        "Compact travel fold"
+      ],
+      "weight": "800g",
+      "featured": false,
+      "stock": 16
+    },
+    {
+      "id": "gift-box-honey-dates",
+      "name": "Honey & Dates Gift Box",
+      "category": "gifts",
+      "price": 4999,
+      "oldPrice": 5699,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Curated gift box of raw honey and premium dates.",
+      "description": "A beautifully packaged gift box pairing our Raw Sidr Honey with a selection of premium Ajwa dates — an elegant gift for Eid, weddings or simply saying thank you.",
+      "benefits": [
+        "Elegant gift packaging",
+        "Raw honey + premium dates",
+        "Perfect for Eid & weddings",
+        "Includes handwritten card option"
+      ],
+      "weight": "1kg",
+      "featured": true,
+      "stock": 12
+    },
+    {
+      "id": "gift-box-complete",
+      "name": "Complete Heaven Gift Set",
+      "category": "gifts",
+      "price": 7999,
+      "oldPrice": 8999,
+      "image": "assets/images/product-placeholder.svg",
+      "gallery": [],
+      "shortDescription": "Our full range in one premium gift set.",
+      "description": "Our most generous offering — raw honey, traditional desi ghee and premium dates presented together in a keepsake box. A complete gesture of care.",
+      "benefits": [
+        "Honey, ghee & dates included",
+        "Keepsake presentation box",
+        "Our most popular gift",
+        "Free gift note included"
+      ],
+      "weight": "2.2kg",
+      "featured": false,
+      "stock": 8
+    }
+  ]
+}
